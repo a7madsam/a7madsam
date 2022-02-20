@@ -17,11 +17,10 @@
 	<a href="https://www.facebook.com/ansa.al3alam/">
 	<img align="left" alt="Ahmad's Facebook" width="100px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 	</a>
-  <br/>
-  <br/>
+	<br>
+  <hr>
   <b> - 🌱 I’m currently learning Javascript </b>
-  <br>
-  <br>
+  <hr>
 
 **Languages and Tools:**
 
