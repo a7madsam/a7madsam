@@ -35,7 +35,7 @@
 <details>
 	<summary>:zap: <b>Most Used Language:</b></summary>
 <a href="https://github.com/a7madsam">
-  <img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7madsam&theme=light&hide_langs_below=1" />
+  <img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7madsam&theme=tokyonight&hide_langs_below=1" />
 </a>
 </details>
 
@@ -43,7 +43,7 @@
 	<summary><b>:zap: GitHub Status:</b></summary>
 
  <a href="https://github.com/a7madsam">
- <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=a7madsam&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=a7madsam&show_icons=true&theme=tokyonight&line_height=27" alt="Ahmad's github stats"/>
 </a>
 </details>
 
