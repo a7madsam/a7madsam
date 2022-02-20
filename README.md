@@ -19,7 +19,7 @@
 	</a>
 	<br>
   <hr>
-  <b> - 🌱 I’m currently learning Javascript </b>
+  <b> - I’m currently learning Javascript 🌱</b>
   <hr>
 
 **Languages and Tools:**
