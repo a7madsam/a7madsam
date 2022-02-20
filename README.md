@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sameer</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A frontend developer from Palestine</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7madsam&label=Profile%20views&color=0e75b6&style=flat" alt="a7madsam" /> </p>
   <br/>
   <a href="https://twitter.com/l7model">
