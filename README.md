@@ -19,7 +19,7 @@
 	</a>
   <br/>
   <br/>
-  - 🌱 I’m currently learning Javascript
+  <b> - 🌱 I’m currently learning Javascript </b>
   <br>
   <br>
 
@@ -34,14 +34,14 @@
 
 
 <details>
-  <summary>:zap: Most Used Language:</summary>
+	<summary>:zap: <b>Most Used Language:</b></summary>
 <a href="https://github.com/a7madsam">
   <img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7madsam&theme=light&hide_langs_below=1" />
 </a>
 </details>
 
 <details>
-  <summary>:zap: GitHub Status:</summary>
+	<summary><b>:zap: GitHub Status:</b></summary>
 
  <a href="https://github.com/a7madsam">
  <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=a7madsam&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
