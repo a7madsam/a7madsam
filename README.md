@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Ahmad Sameer</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ahmad Sameer</h1>
 <h3 align="center">A frontend developer from Palestine</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7madsam&label=Profile%20views&color=0e75b6&style=flat" alt="a7madsam" /> </p>
   <br/>
