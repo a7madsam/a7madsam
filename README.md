@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ahmad Sameer</h1>
 <h3 align="center">A frontend developer from Palestine</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7madsam&label=Profile%20views&color=0e75b6&style=flat" alt="a7madsam" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7madsam&label=Profile%20views&color=0e75b6&style=flat" alt="a7madsam" /> </p> -->
   <br/>
   <a href="https://twitter.com/l7model">
   <img align="left" alt="Ahmad's Twitter" width="100px" src="https://img.shields.io/badge/<A7MADSAM>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
