@@ -16,7 +16,7 @@
 	</a>
 	<br>
   <hr>
-  <b> - I’m currently learning Everything 🌱</b>
+  <b> - I’m currently learning ReactJS 🌱</b>
   <hr>
 
 **Languages and Tools:**
