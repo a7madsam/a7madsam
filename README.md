@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1GuLdpQfHKD7BXhyF5RwZuDnLlDUkhSV0/view?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **I love to code 24/7 !**
+- ⚡ Fun fact **the hobby that I could never give up is trading 🤑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
