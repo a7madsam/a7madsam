@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sameer</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **lolahmad987@gmail.com**
 
