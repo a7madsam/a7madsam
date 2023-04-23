@@ -34,7 +34,11 @@
 
 <h2 id="-github-quotes"><a href="#/templates/7oSkaaa?id=-github-stats" data-id="-github-stats" class="anchor"><span><picture> <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-quotes/bulb.webp" alt="Bulb" width="50">  </picture> Quote of The Day</span></a></h2>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+</div>
 
 <h2 id="-github-stats"><a href="https://github.com/piyushsuthar/github-readme-quotes"></a><a href="#/templates/7oSkaaa?id=-github-stats" data-id="-github-stats" class="anchor"><span><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">  </picture> Github Stats</span></a></h2>
 
