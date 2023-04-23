@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sameer</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A passionate Full Stack Developer from Palestine</h3>
 
 <h2 id="-about-me"><a href="#/templates/7oSkaaa?id=-about-me" data-id="-about-me" class="anchor"><span><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</span></a></h2>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
